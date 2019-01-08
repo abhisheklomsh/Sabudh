@@ -11,16 +11,10 @@ import numpy as np
 sampleSize = int(input("Enter value of die rolls"))
 import matplotlib.pyplot as plt
 
-    
-    
-    
-
 def score_cal(score,newValue):   
         if newValue== 1 or newValue== 2 or newValue== 3:
             if score==0:
                 score = 0
-                
-                
             else:
                 score -= 1
                 
