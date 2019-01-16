@@ -4,6 +4,7 @@
 Created on Wed Jan  9 10:51:47 2019
 
 @author: abhisheklomsh
+Here we ask user to enter a number and we return whether the number is prime or not
 """
 
 def prime_check(input_num):
